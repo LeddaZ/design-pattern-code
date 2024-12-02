@@ -1,0 +1,15 @@
+{
+  "name": "design-pattern-code",
+  "version": "1.0.0",
+  "description": "Code for the Design Patterns exam simulation",
+  "main": "index.js",
+  "scripts": {
+    "oracolo": "ts-node src/oracolo.ts"
+  },
+  "author": "Leonardo Ledda",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.4.1",
+    "ts-node": "^10.9.2"
+  }
+}
