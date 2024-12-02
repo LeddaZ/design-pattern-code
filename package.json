@@ -4,7 +4,8 @@
   "description": "Code for the Design Patterns exam simulation",
   "main": "index.js",
   "scripts": {
-    "oracolo": "ts-node src/oracolo.ts"
+    "oracolo": "ts-node src/oracolo.ts",
+    "pizza": "ts-node src/pizza.ts"
   },
   "author": "Leonardo Ledda",
   "license": "ISC",
