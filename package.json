@@ -10,7 +10,7 @@
   "author": "Leonardo Ledda",
   "license": "ISC",
   "devDependencies": {
-    "prettier": "^3.4.1",
+    "prettier": "^3.4.2",
     "ts-node": "^10.9.2"
   }
 }
